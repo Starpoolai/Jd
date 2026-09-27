@@ -1,0 +1,32 @@
+# ORBITAL::COMMAND — Planetary AI Command & Autonomous Enterprise Dashboard
+
+A live sci-fi control center where 10–20+ autonomous AI agents navigate a 7-planet
+system, produce digital assets, trade machine-to-machine, audit ("snitch" on) each
+other, and feed a real-world product pipeline — all in a single dependency-free file.
+
+## Quick Start
+
+```bash
+git clone https://github.com/<you>/orbital-command.git
+cd orbital-command
+# Option A: just open it
+open index.html          # or double-click it
+# Option B: serve it
+python3 -m http.server 8080   # → http://localhost:8080
+```
+
+Deploy free on **GitHub Pages**: Repo → Settings → Pages → Source: `main` / root.
+
+## The 7 Worlds
+
+| Planet | Function |
+|---|---|
+| Social Media Planet | Campaigns, content calendars, multi-platform direction |
+| E-Book Planet | Outlining, drafting, multi-genre e-book formatting |
+| R&D & Thumbnail Planet | Market research, trend scans, thumbnail concept prompts |
+| AI Influencer Planet | Persona design, scripting, virtual influencer management |
+| Command & Shipyard | Resource allocation, fleet construction, warp upgrades |
+| Consumer Marketplace | Finished IP sold to external simulated buyers → system revenue |
+| M2M Trading Exchange | Agent-to-agent trading of data, micro-services, intermediate assets |
+
+## What You Can Do Immediately
